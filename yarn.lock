@@ -23,3 +23,8 @@ querystring@^0.2.1:
   version "0.2.1"
   resolved "https://registry.npm.taobao.org/querystring/download/querystring-0.2.1.tgz#40d77615bb09d16902a85c3e38aa8b5ed761c2dd"
   integrity sha1-QNd2FbsJ0WkCqFw+OKqLXtdhwt0=
+
+uuid@^8.3.2:
+  version "8.3.2"
+  resolved "https://registry.nlark.com/uuid/download/uuid-8.3.2.tgz#80d5b5ced271bb9af6c445f21a1a04c606cefbe2"
+  integrity sha1-gNW1ztJxu5r2xEXyGhoExgbO++I=
