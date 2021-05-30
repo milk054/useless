@@ -4,4 +4,5 @@ console.log('b');
 
 console.log('c')
 
-console.log('e')
+console.log('e');
+const a = 123;
