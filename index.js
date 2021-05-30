@@ -6,5 +6,6 @@ console.log('c')
 
 console.log('e');
 const a = 123;
-console.log('e')
+console.log('e');
 const b = 456;
+const c = 123;
